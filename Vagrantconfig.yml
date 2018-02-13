@@ -1,0 +1,5 @@
+shared_folders:
+  pedroribeiro: '../pedroribeiro'
+
+memory: 2048
+nfs: true
